@@ -1,0 +1,15 @@
+Palabra,Frecuencia
+break,36
+case,33
+char,35
+const,2
+default,1
+double,1
+else,9
+float,25
+int,85
+return,41
+struct,6
+typedef,4
+void,80
+while,4
