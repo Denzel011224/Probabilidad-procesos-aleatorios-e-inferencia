@@ -7,7 +7,7 @@ impartido por el Dr. Juan Carlos Chimal Eguía
 
 ## Nota
 
-Para ejecutar los programas, solo ejecutar el comando make en consola. Sin embargo, es necesario instalar:
+Para ejecutar los programas, solo teclee el comando make en consola. Sin embargo, es necesario instalar:
 
 1. CSFML
 2. Pandas
