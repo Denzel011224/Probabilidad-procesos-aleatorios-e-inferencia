@@ -2,7 +2,8 @@
 
 Alumno: Denzel Omar Vázquez Pérez
 
-Este repositorio contiene los ejercicos y programas solicitados en el curso de Probabilidad, procesos aleatorios e inferencia impartido por el Dr. Juan Carlos Chimal 
+Este repositorio contiene los ejercicos y programas solicitados en el curso de Probabilidad, procesos aleatorios e inferencia 
+impartido por el Dr. Juan Carlos Chimal Eguía
 
 ## Nota
 
